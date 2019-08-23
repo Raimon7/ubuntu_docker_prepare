@@ -1,2 +1,1 @@
-# ubuntu_docker_prepare
-# ubuntu_docker_prepare
+A simple script to prepare a fresh Ubuntu machine as a docker host.
